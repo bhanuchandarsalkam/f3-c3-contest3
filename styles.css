@@ -1,0 +1,32 @@
+#header,#header2{
+    display:flex;
+    justify-content:space-between;
+    gap:10px;
+    color:white;
+}
+#fullname,#email,#password,#confirm-password{
+    width:100%;
+    margin:5px;
+}
+#main{
+    padding:50px 150px;
+}
+body{
+    background-color:black;
+}
+#header1{
+    color:white;
+}
+#error-message,#error-message1{
+    color:red;
+}
+#error-message2{
+    color:green;
+}
+#color{
+    color:white;
+}
+#main1{
+display:none;
+padding:50px 150px;
+}
