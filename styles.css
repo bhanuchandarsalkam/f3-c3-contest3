@@ -30,3 +30,23 @@ body{
 display:none;
 padding:50px 150px;
 }
+@media screen and (min-width:320px) and (max-width:480px){
+    #color{
+        font-size:15px;
+    }
+
+#main{
+    padding:50px 30px;
+}
+#main1{
+    padding:50px 30px;
+    }
+    body{
+        background-color:green;
+    }
+}
+@media screen and (min-width:481px) and (max-width:768px){
+    body{
+        background-color:orange;
+    }
+}
